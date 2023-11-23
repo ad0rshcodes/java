@@ -1,7 +1,6 @@
 // problem link: https://leetcode.com/problems/plus-one/description/
 
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 
 //solution:
